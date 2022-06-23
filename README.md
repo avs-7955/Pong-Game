@@ -14,5 +14,7 @@ The right user can use 'Up' and 'Down' keys to move the paddle up and down.
 ## Screenshots
 At the start of the game, the ball starts from the middle.
 ![App Screenshot](https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/PythonMiniProjects/Pong_Game/Start_game_FQXHUwYhX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655826778628)
-
-
+<br>
+The first person to reach 10 points is the winner!
+![App Screenshot](https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/PythonMiniProjects/Pong_Game/winner_47B2y0huh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655970309071)
+</div>

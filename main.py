@@ -1,4 +1,3 @@
-import imp
 from turtle import Screen, Turtle, position
 
 from pyparsing import line
@@ -50,6 +49,16 @@ while game_status:
     time.sleep(ball.time_delay)
     my_screen.update()
     ball.move()
+
+    # Check the winner as soon the score reaches 10!
+    if l_score.score == 10:
+        game_status = False
+        l_score.game_over("Left")
+        line_turtle.clear()
+    elif r_score.score == 10:
+        r_score.game_over("Right")
+        game_status = False
+        line_turtle.clear()
 
     # DETECT COLLISON WITH TOP AND BOTTOM WALL
     if(ball.ycor() > 280 or ball.ycor() < -280):
