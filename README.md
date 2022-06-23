@@ -1,7 +1,10 @@
 # Arcade Pong Game
 Pong is a table tennis–themed twitch arcade sports video game, featuring simple two-dimensional graphics. 
+<br>
 It features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain 10 point. A player gets a point once the opponent misses a ball.
+<br>
 The left user can use 'W' and 'S' to move the paddle up and down.
+<br>
 The right user can use 'Up' and 'Down' keys to move the paddle up and down.
 
 <h1 align="center">
