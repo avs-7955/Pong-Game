@@ -21,3 +21,32 @@ At the start of the game, the ball starts from the middle.
 The first person to reach 10 points is the winner!
 ![App Screenshot](https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/PythonMiniProjects/Pong_Game/winner_47B2y0huh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655970309071)
 </div>
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/avs-7955/Pong-Game.git
+```
+
+Go to the project directory
+
+```bash
+  cd Pong-Game
+```
+Start the game
+
+```bash
+  python main.py
+```
+
+
+## Author
+
+- [Ayushi Sharan](https://github.com/avs-7955)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at ayushi.v.sharan@gmail.com
